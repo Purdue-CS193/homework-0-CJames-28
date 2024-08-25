@@ -1,3 +1,15 @@
+# Collin James' First CS193 Homework
+
+## Things I like about CS193 based off of the vibes it gives
+- No iClicker
+- Good homework instructions (besides the fact that I was looking for something ACTUALLY labeled 'Github Pages'. That one's on me)
+- Grading rubric on hw assignments. Love to see it.
+- Teachers being entirely student based. That's really cool.
+
+
+
+I don't know if this should be deleted, so I'm going to leave it here. Grade ^that stuff 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
